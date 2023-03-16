@@ -13,7 +13,7 @@
 <div align="center">
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=본인주소)](https://www.linkedin.com/in/yair-cipres/)
-[![Gmail Badge](https://img.shields.io/badge/-%F0%9F%93%A7%20Gmail-red)](href=»mailto:yairemilianocipres@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-%F0%9F%93%A7%20Gmail-red)](mailto:yairemilianocipres@gmail.com)
 
 </div>
 
