@@ -4,7 +4,7 @@
   
   <h2 align="center"> 👋 Hi i´m Yair. Welcome to my profile!👾 </h2>
   
-  <h3 align="center"> I am a computer engineer with a passion for artificial intelligence and electronics 👨‍💻 </h3>
+  <h3 align="center"> I am a computer engineer with a passion for programming and electronics 👨‍💻 </h3>
 
 </div>
 
@@ -14,6 +14,15 @@
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=본인주소)](https://www.linkedin.com/in/yair-cipres/)
 [![Gmail Badge](https://img.shields.io/badge/-%F0%9F%93%A7%20Gmail-red)](mailto:yairemilianocipres@gmail.com)
+
+</div>
+
+---
+
+<div>
+  
+  <h3 align="left"> 🙋‍♂️ About Me: </h3>
+  <h4 align="left"> I am a serious and responsible person, full of determination for personal and professional development. I consider myself an autodidact by nature, with a passion for continuous learning, always looking for opportunities to improve my skills and knowledge. I prioritize meeting deadlines and delivering efficient and effective results in everything I do. I am especially interested in the field of artificial intelligence and electronics.</h4>
 
 </div>
 
