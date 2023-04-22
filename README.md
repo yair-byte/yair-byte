@@ -22,7 +22,7 @@
 <div>
   
   <h3 align="left"> 🙋‍♂️ About Me: </h3>
-  <h4 align="left"> I am a serious and responsible person, full of determination for personal and professional development. I consider myself an autodidact by nature, with a passion for continuous learning, always looking for opportunities to improve my skills and knowledge. I prioritize meeting deadlines and delivering efficient and effective results in everything I do. I am especially interested in the field of artificial intelligence and electronics.</h4>
+  <h4 align="left"> I am self-taught by nature, with a great passion for continuous learning. I am always looking for opportunities to improve my skills and knowledge, and I make it a priority to meet deadlines and deliver efficient and effective results in all my tasks. My interest is especially focused on the field of artificial intelligence, web development and electronics. </h4>
 
 </div>
 
